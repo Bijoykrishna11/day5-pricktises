@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1{
+
+    font-size: 60px;
+}
+.first-part{
+    display: flex;
+    margin-top: 20px;
+}
+
+.half-wate{
+width: 50%;
+margin-top: 70px;
+margin-left: 80px;
+
+}
+..half-wate img{
+    width: 60%;
+}
+
+.color{
+    color: orange;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 50px;
+    border-radius: 40px;
+    margin-top: ;
+}
+.s2s{
+    color: rgb(151, 147, 147);
+
+
+
+}
