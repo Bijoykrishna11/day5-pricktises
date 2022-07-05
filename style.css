@@ -9,17 +9,19 @@ h1{
 }
 .first-part{
     display: flex;
-    margin-top: 20px;
+    margin-top: 10px;
+
 }
 
 .half-wate{
 width: 50%;
-margin-top: 70px;
+margin-top: 150px;
 margin-left: 80px;
 
 }
-..half-wate img{
-    width: 60%;
+.half-wate img{
+    width: 50%;
+    
 }
 
 .color{
@@ -31,11 +33,32 @@ margin-left: 80px;
     background-image: linear-gradient(orange, tomato);
     padding: 20px 50px;
     border-radius: 40px;
-    margin-top: ;
+    color: white;
+    font-size: 20px;
 }
 .s2s{
     color: rgb(151, 147, 147);
 
 
+
+}
+
+.title{
+    color: rgb(114, 102, 102);
+    font-size: 40px;
+
+}
+.call{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+
+}
+.gg{
+background-image: url(7.png);
+background-repeat: no-repeat;
 
 }
